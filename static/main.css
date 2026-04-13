@@ -1,0 +1,28 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+    }
+
+    body {
+        background: #013e66;
+        color: white;
+        display: flex;
+        height: 100vh;
+    }
+
+    .sidebar {
+        width: 220px;
+        background: #002842;
+        padding: 20px;
+    }
+
+    .playlistGrid{
+        
+    }
+
+    .card{
+        height: 400px;
+        width: 200px;
+    }
